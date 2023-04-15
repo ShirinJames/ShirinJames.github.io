@@ -1,0 +1,43 @@
+/* CSS Document  */
+/* Shirin Image Style  */
+.circular--square { border: #00000027 3px solid seashell;border-top-left-radius: 50% 50%; border-top-right-radius: 50% 50%; border-bottom-right-radius: 50% 50%; border-bottom-left-radius: 50% 50%; box-shadow: 0 0 20px #000000; }
+
+
+header {
+    margin-top: -60px;
+    background-color: #666;
+    padding: 90px;
+    text-align: center;
+    font-size: 14px;
+    color: white;
+   width:-10px;
+  }
+
+footer {
+    background-color: #666;
+    padding: 30px;
+    text-align: center;
+    font-size: 14px;
+    color: white;
+}
+
+  nav {
+    float: left;
+    width: 280px;
+    height: 1660px; /* only for demonstration, should be removed */
+    background: #ccc;
+    padding: 50px;
+  }
+
+  article {
+    float: left;
+    width: 1406px;
+    background-color: #f1f1f1;
+    padding: 50px;
+    height: 1660px; /* only for demonstration, should be removed */
+  }
+  section{
+   
+    display: table;
+    clear: both;
+  }
